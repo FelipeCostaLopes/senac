@@ -1,2 +1,3 @@
-# Senac
-Arquivos elaborados durante as aulas do Sanac
+# senac
+Projetos - Documentoção técnica
+Arquivos elaborados durante as aulas o Sanac
