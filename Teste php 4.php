@@ -41,7 +41,7 @@ p {
         <imput type="subtail"  value="Enviar"><br>
     </form>
         <?php
-        echo "<br>"
+        echo "<br>";
         if ($_SERVER["REQUEST_METHOD"]=="POST"){
             $num = $_POST["num"];
         echo "<center><h2>Tabuada do $num: </h2></center><br>";
